@@ -39,7 +39,7 @@ The docker image allows the deployment of containers on top any host OS.
   ```
   bash build.sh
   ```
-* Run it:
+  * Run it:
   ```
   bash run.sh $VERSION
   ```
