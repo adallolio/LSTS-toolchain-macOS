@@ -9,7 +9,7 @@ Slight modifications may apply on a Windows host operative system.
 The docker image allows the deployment of containers on top any host OS.
 
 ## Host Prerequisites
-  * Install [XQuartz](https://www.xquartz.org/).
+  * Install [XQuartz](https://www.xquartz.org/) and enable "Allow connections from network clients" under Preferences ->       Security.
   * Install [Docker for Mac](https://docs.docker.com/docker-for-mac/) and create your Docker account.
 
 ## Installation
